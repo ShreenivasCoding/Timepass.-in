@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Timepass! </title>
+  <style>
+    .Image {
+       text-align: center;
+    }
+    body {
+      background-color: orange;
+    }
+     .Download {
+        text-align: center;
+        font-size: 40px;
+     }
+  </style>
+  </head>
+  <body>
+    
+<div class="Image">
+    <img src="https://www.appcreator24.com/android-app-creator/launchers/101.png"><br></br>
+    </div>
+    <h1 style="text-align: center">TIMEPASS! </h1><br>
+    <div class="Download">
+    <a href="https://apk.e-droid.net/apk/app2493297-idg3fo.apk?v=1"Download>Download</a>
+    </div><br>
+   <h2 style="text-align: center">Website is Under the  Developing stages but, 
+        still you  can Download the app.</h2>
+  </body>
+  </html>
